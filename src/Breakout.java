@@ -2,7 +2,6 @@
  * File: Breakout.java
  * -------------------
  * Name: Hongyou Lin
- * Section Leader: Dev Bhargava 
  * 
  * This file will eventually implement the game of Breakout.
  */
