@@ -78,11 +78,11 @@ public class Breakout extends GraphicsProgram {
 	 * Decomposition according to the functionality of methods;
 	 */
 	public void run() {   
-		stepUp();
+		setUp();
 		startGame();
 	}
 	
-	private void stepUp() {   // have further decompositions in terms of categories after the general decomposition of "public void run";
+	private void setUp() {   // have further decompositions in terms of categories after the general decomposition of "public void run";
 		createBricks();
 		createPaddle();
 		createBall();
