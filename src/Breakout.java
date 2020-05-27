@@ -71,7 +71,7 @@ public class Breakout extends GraphicsProgram {
 	private double vx,vy;
 
 	public void init() {   
-		resize(WIDTH,HEIGHT); 
+		setSize(WIDTH,HEIGHT); 
 	}
 	
 	/*

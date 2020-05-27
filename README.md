@@ -4,7 +4,7 @@ This is the classic game of breaking bricks by bouncing ball with a controllable
 
 ## How to use
 
-Simply download the repository and you could run the source file Breakout.java with your own IDE like Visual Studio with the Java extension installed. The source file imports the ACM Java Task Force for its graphics, util and program packages. Thus, if you use Eclipse, you need to add the acm.jar as the external library, which could be found from https://cs.stanford.edu/people/eroberts/jtf/index.html. 
+Simply download the repository and you could execute the "run()" method defined in the "Breakout.java" source file with your own IDE like Visual Studio with the Java extension installed. Note that you should open the whole project folder "Breakout" to correctly set up the project dependency, as the source file imports the ACM Java Task Force for its graphics, util and program packages. Thus, if you use Eclipse, you need to add the acm.jar as the external library after import the project, which could be found from https://cs.stanford.edu/people/eroberts/jtf/index.html. 
 
 ## Improvements:
 
